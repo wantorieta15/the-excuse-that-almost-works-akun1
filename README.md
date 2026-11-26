@@ -1,8 +1,8 @@
 # The Excuse That Almost Works — Akun 1 (@walta-exchange)
 
-[![Competition](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/badge.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
-[![Rank](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/rank/walta-exchange/badge.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
-[![Reward](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/reward/badge.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+[![make.fun](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5.svg)](https://make.fun/competitions/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+[![rank](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/walta-exchange/the-excuse-that-almost-works-akun1/rank.svg)](https://make.fun/competitions/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+[![reward](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/walta-exchange/the-excuse-that-almost-works-akun1/reward.svg)](https://make.fun/competitions/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
 
 Entry for the Make Fun bounty **The Excuse That Almost Works** ($2, TOP 8).
 One line, 19 words, 95 characters — the excuse a gamer texts their boss to
